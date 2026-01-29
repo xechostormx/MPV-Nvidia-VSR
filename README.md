@@ -4,13 +4,14 @@ This setup is built for users who have Nvidia RTX Video Super Resolution (VSR) e
 
     A streamlined mpv.conf optimized for modern GPUs
 
-    A custom Lua script that triggers VSR after 3 seconds of playback
+    A custom Lua script that triggers VSR after 3 seconds of playback and upscales to your Native Resolution
 
     Font and UI tweaks for a clean, modern look
 
     Fully portable structure with optional system integration
 
 ⚙️ Installation & Usage
+-
 
 ✅ To install:
 
